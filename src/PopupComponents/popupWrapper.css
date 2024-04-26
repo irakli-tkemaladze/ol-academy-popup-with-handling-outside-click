@@ -1,0 +1,19 @@
+.popupWrapper {
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h1 {
+        text-align: center;
+        margin: 1rem 1rem; 
+    }
+
+    p {
+        margin: 1rem 1rem;
+        text-align: center
+    }
+
+    div {
+        text-align: center;
+    }
+}
